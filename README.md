@@ -3,7 +3,7 @@ Uma ferramenta para explorar SSRF + Protocol Smuggling e conseguir RCE através 
 
 Uso: ``python polyglotte.py [os command]``
 
-Exemplo: ``python polyglotte.py ls``
+Exemplo: ``python polyglotte.py id``
 
 Output:
 
